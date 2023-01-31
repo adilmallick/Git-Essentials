@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adil mallick
+=======
+adil
+>>>>>>> f27b47f (KEEP YOUR FRIENDS              CLOSE, BUT YOUR ENEMIES CLOSER.)
