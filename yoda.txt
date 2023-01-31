@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 git essentials lll
 =======
 working
 >>>>>>> parent of fe8bebd (Do or do not, there is no try. -> DO OR DO NOT, THERE IS NO TRY.)
+=======
+git featue-rename-files branch
+>>>>>>> 51a3563 (DO OR DO NOT, THERE IS NO TRY.)
